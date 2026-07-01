@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR6v0080/zw/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 錄文四每月十齋日月一日童子下此日齋者不墮鐵樹地獄八日太子下此日齋者不墮鐵犁地獄十四日司命下此日齋者不墮鑊湯地獄十五日五道大神下此日齋者不墮鋸解地獄十八日閻羅王下此日齋者不墮糞屎地獄二十三日天大將軍下此日齋者不墮銅柱地獄二十四日察命下此日齋者不墮黑暗地獄二十八日太山府君下此日齋者不墮鐵床地獄二十九日四天王下此日齋者不墮鐵鈸地獄三十日梵天王下此日齋者不墮鐵輪地獄錄文完
+  hash: sha256:98d3731113958bd2a1d4638cfd2c076587ecf1a7fefd5dd17a042a72a809f4d3
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0080_ZW_001-juan-start, juan_n: '001'}
+  - {type: 其他, offset: 0, content: 錄文四, id: KR6v0080_ZW_001-mulu-1, level: '1'}
+metadata:
+  title: 地藏菩薩十齋日
+  edition:
+    short: zw
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/ZW/ZW07/ZW07n0064d.xml
+    old_id: ZW07n0064d
+hash: sha256:cfe9c16e8ce0c7dff03a1bfbc95c7c7571a0d4435a712510a8e3517b79500d66
